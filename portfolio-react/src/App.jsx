@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>vakam da mapla</h1>
+      <h1>vakam da maplaa!</h1>
         
     </>
   )
