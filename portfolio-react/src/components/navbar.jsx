@@ -6,7 +6,7 @@ function Navbar (){
 
         <>
         <div className="navbar">
-            <img src="../" alt="" />
+            <img src="../assets/new1.png" alt="" />
         </div>
         </>
     )
