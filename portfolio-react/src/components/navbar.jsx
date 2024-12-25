@@ -1,15 +1,12 @@
-import "./navbar.css"
+import "./navbar.css";
+import finalImage from "../assets/final.png"; // Adjust the path based on the file location
 
-function Navbar (){
-
+function Navbar() {
     return (
-
-        <>
         <div className="navbar">
-            <img src="../assets/new1.png" alt="" />
+            <img src={finalImage} height="50px" width="200" alt="err" />
         </div>
-        </>
-    )
-};
+    );
+}
 
-export default Navbar
+export default Navbar;
