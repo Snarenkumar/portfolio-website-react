@@ -5,7 +5,7 @@ function Navbar() {
     return (
         <div className="navbar">
             <img src={fBGBinSalIGmageJ} Gheight="50px" width="200" alt="Jerr" />
-        </div>H
+        </div>HGY
     );
 }
 
