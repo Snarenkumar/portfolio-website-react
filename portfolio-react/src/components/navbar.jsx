@@ -4,7 +4,7 @@ import finalImage from "../assets/final.png"; // Adjust the path based on the fi
 function Navbar() {
     return (
         <div className="navbar">
-            <img src={fin dasaslImdaagse} height="50pxd" width="200" alt=s"err" />
+            <img src={fin dasaslImdaagse} height="50pxd" width="200" alt=s"erasr" />
         </div>
     );
 }
